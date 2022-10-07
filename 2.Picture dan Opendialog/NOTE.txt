@@ -1,0 +1,5 @@
+IN THIS PROJECT LEARN ABOUT :
+
+1.Meng-Import gambar dan Opendialog pada suatu Form
+
+2.Fungsi "Find" di Opendialog

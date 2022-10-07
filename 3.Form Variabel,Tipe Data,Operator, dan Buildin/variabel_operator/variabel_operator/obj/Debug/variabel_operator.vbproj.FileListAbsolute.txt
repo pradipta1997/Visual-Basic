@@ -1,0 +1,12 @@
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\bin\Debug\variabel_operator.exe.config
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\bin\Debug\variabel_operator.exe
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\bin\Debug\variabel_operator.pdb
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\bin\Debug\variabel_operator.xml
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.vbprojAssemblyReference.cache
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.Form1.resources
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.Resources.resources
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.vbproj.GenerateResource.cache
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.exe
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.xml
+E:\Visual Basic\3.Form Variabel,Tipe Data,Operator, dan Buildin\variabel_operator\variabel_operator\obj\Debug\variabel_operator.pdb

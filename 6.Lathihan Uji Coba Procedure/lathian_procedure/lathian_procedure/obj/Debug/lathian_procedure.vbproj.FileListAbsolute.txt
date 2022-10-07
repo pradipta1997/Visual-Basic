@@ -1,0 +1,12 @@
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\bin\Debug\lathian_procedure.exe.config
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\bin\Debug\lathian_procedure.exe
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\bin\Debug\lathian_procedure.pdb
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\bin\Debug\lathian_procedure.xml
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.vbprojAssemblyReference.cache
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.frmUjiCobaProcedure.resources
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.Resources.resources
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.vbproj.GenerateResource.cache
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.exe
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.xml
+E:\Visual Basic\6.Lathihan Uji Coba Procedure\lathian_procedure\lathian_procedure\obj\Debug\lathian_procedure.pdb

@@ -1,0 +1,4 @@
+IN THIS PROJECT LEARN ABOUT :
+
+Pengelolaan input data dengan menggunakan Array/ArrayList dan menampilkannya di 
+Data Grid View

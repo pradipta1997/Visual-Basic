@@ -1,0 +1,12 @@
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\bin\Debug\data_mahasiswa.exe.config
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\bin\Debug\data_mahasiswa.exe
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\bin\Debug\data_mahasiswa.pdb
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\bin\Debug\data_mahasiswa.xml
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.vbprojAssemblyReference.cache
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.frmDataMahasiswa.resources
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.Resources.resources
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.vbproj.GenerateResource.cache
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.exe
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.xml
+E:\Visual Basic\1.Data Mahasiswa\data_mahasiswa\data_mahasiswa\obj\Debug\data_mahasiswa.pdb

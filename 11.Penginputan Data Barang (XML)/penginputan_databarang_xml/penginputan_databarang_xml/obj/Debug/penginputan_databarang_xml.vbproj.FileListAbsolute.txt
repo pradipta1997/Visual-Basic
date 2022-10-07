@@ -1,0 +1,12 @@
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\bin\Debug\penginputan_databarang_xml.exe.config
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\bin\Debug\penginputan_databarang_xml.exe
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\bin\Debug\penginputan_databarang_xml.pdb
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\bin\Debug\penginputan_databarang_xml.xml
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.vbprojAssemblyReference.cache
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.frmPenginputanDataBarangXML.resources
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.Resources.resources
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.vbproj.GenerateResource.cache
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.exe
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.xml
+E:\Visual Basic\11.Penginputan Data Barang (XML)\penginputan_databarang_xml\penginputan_databarang_xml\obj\Debug\penginputan_databarang_xml.pdb

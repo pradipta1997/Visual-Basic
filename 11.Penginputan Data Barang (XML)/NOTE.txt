@@ -1,0 +1,4 @@
+IN THIS PROJECT LEARN ABOUT :
+
+Pengelolaan input data dengan menggunakan XML dan di aplikasikan pada bentuk
+inputan form dan Data Grid.

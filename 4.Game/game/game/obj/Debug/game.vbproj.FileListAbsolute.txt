@@ -1,0 +1,12 @@
+E:\Visual Basic\4.Game\game\game\bin\Debug\game.exe.config
+E:\Visual Basic\4.Game\game\game\bin\Debug\game.exe
+E:\Visual Basic\4.Game\game\game\bin\Debug\game.pdb
+E:\Visual Basic\4.Game\game\game\bin\Debug\game.xml
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.vbprojAssemblyReference.cache
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.frmGame.resources
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.Resources.resources
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.vbproj.GenerateResource.cache
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.exe
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.xml
+E:\Visual Basic\4.Game\game\game\obj\Debug\game.pdb

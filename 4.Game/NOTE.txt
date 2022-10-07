@@ -1,0 +1,8 @@
+IN THIS PROJECT LEARN ABOUT :
+
+1.Struktur Kontrol pada fungsi "Keyboard" (Dengan Coding)
+
+2.Pengkondisian (if..then) (select..case)
+
+3.Control Mouse/Keyboard
+

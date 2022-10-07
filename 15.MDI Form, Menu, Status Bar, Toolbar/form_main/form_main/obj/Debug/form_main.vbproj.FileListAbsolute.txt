@@ -1,0 +1,13 @@
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\bin\Debug\form_main.exe.config
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\bin\Debug\form_main.exe
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\bin\Debug\form_main.pdb
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\bin\Debug\form_main.xml
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.vbprojAssemblyReference.cache
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.formMDI.resources
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.form_latihan_1.resources
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.Resources.resources
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.vbproj.GenerateResource.cache
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.exe
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.xml
+E:\Visual Basic\15.MDI Form, Menu, Status Bar, Toolbar\form_main\form_main\obj\Debug\form_main.pdb

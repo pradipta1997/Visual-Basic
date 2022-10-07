@@ -1,0 +1,9 @@
+IN THIS PROJECT LEARN ABOUT :
+
+1.Variabel
+
+2.Tipe Data
+
+3.Fungsi Operator (Aritmatika)
+
+4.Fungsi Build-in (Fungsi didalam VB)

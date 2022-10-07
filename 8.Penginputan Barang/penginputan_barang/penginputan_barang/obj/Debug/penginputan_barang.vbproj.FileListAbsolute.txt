@@ -1,0 +1,12 @@
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\bin\Debug\penginputan_barang.exe.config
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\bin\Debug\penginputan_barang.exe
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\bin\Debug\penginputan_barang.pdb
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\bin\Debug\penginputan_barang.xml
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.vbprojAssemblyReference.cache
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.frmPenginputanBarang.resources
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.Resources.resources
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.vbproj.GenerateResource.cache
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.exe
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.xml
+E:\Visual Basic\8.Penginputan Barang\penginputan_barang\penginputan_barang\obj\Debug\penginputan_barang.pdb

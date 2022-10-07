@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<products>
+	
+
+	<product>
+
+		<productid>1</productid>
+		<productname>Keyboard</productname>
+		<productgroup>Komputer</productgroup>
+		<productprice>50000</productprice>
+
+	</product>
+
+
+	<product>
+
+		<productid>2</productid>
+		<productname>Pulpen</productname>
+		<productgroup>ATK</productgroup>
+		<productprice>3000</productprice>
+
+	</product>
+
+
+	<product>
+
+		<productid>3</productid>
+		<productname>Meja</productname>
+		<productgroup>Alat Kantor</productgroup>
+		<productprice>450000</productprice>
+
+	</product>
+	
+
+</products>

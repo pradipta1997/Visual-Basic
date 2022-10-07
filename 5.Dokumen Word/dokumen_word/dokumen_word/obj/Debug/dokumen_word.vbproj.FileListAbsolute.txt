@@ -1,0 +1,12 @@
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\bin\Debug\dokumen_word.exe.config
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\bin\Debug\dokumen_word.exe
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\bin\Debug\dokumen_word.pdb
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\bin\Debug\dokumen_word.xml
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.vbprojAssemblyReference.cache
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.frmDokumenWord.resources
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.Resources.resources
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.vbproj.GenerateResource.cache
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.exe
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.xml
+E:\Visual Basic\5.Dokumen Word\dokumen_word\dokumen_word\obj\Debug\dokumen_word.pdb

@@ -1,0 +1,15 @@
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\bin\Debug\sistem_inventory.exe.config
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\bin\Debug\sistem_inventory.exe
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\bin\Debug\sistem_inventory.pdb
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\bin\Debug\sistem_inventory.xml
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.vbprojAssemblyReference.cache
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.formSatuan.resources
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.Resources.resources
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.vbproj.GenerateResource.cache
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.exe
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.xml
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.pdb
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.formGroupProduct.resources
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.formUtamaMDI.resources
+E:\Visual Basic\16.Sistem Inventory(SQL)\sistem_inventory\sistem_inventory\obj\Debug\sistem_inventory.formPembelian.resources

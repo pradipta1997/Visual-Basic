@@ -1,0 +1,18 @@
+IN THIS PROJECT LEARN ABOUT :
+
+1.Procedure
+
+2.Function (Return <variabel>)
+
+3.KeyEvents pada Keyboard (Enter,Up,Down)
+
+4.Module
+	
+-Public Sub clearControl (Digunakan untuk membersihkan Control TextBox & ComboBox)
+
+-Public Sub setEnabled (Digunakan untuk fungsi Enabled Control TextBox & ComboBox)
+
+-Public Sub setEnter (Events tombol Enter pada form)
+
+-Public Function checkError (Digunakan untuk mengecek Error pengisian pada control
+ form)

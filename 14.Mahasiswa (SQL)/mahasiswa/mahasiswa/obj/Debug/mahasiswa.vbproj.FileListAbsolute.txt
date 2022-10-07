@@ -1,0 +1,5 @@
+E:\Visual Basic\14.Mahasiswa (SQL)\mahasiswa\mahasiswa\obj\Debug\mahasiswa.vbprojAssemblyReference.cache
+E:\Visual Basic\14.Mahasiswa (SQL)\mahasiswa\mahasiswa\obj\Debug\mahasiswa.frmMahasiswa.resources
+E:\Visual Basic\14.Mahasiswa (SQL)\mahasiswa\mahasiswa\obj\Debug\mahasiswa.Resources.resources
+E:\Visual Basic\14.Mahasiswa (SQL)\mahasiswa\mahasiswa\obj\Debug\mahasiswa.vbproj.GenerateResource.cache
+E:\Visual Basic\14.Mahasiswa (SQL)\mahasiswa\mahasiswa\obj\Debug\mahasiswa.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\bin\Debug\penginputan_databarang_array.exe.config
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\bin\Debug\penginputan_databarang_array.exe
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\bin\Debug\penginputan_databarang_array.pdb
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\bin\Debug\penginputan_databarang_array.xml
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.vbprojAssemblyReference.cache
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.frmPenginputanDataBarang.resources
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.Resources.resources
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.vbproj.GenerateResource.cache
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.exe
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.xml
+E:\Visual Basic\10.Penginputan Data Barang (Array)\penginputan_databarang_array\penginputan_databarang_array\obj\Debug\penginputan_databarang_array.pdb

@@ -1,0 +1,9 @@
+IN THIS PROJECT LEARN ABOUT :
+
+Penggunaan database SQL Server pada VB dengan 
+
+	1.Data Grid View,
+
+	2.Binding Navigator
+
+Step by step nya ada pada buku Visual Basic 1 Hal.166

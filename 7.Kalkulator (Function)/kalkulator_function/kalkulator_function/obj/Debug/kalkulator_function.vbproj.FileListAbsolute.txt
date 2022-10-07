@@ -1,0 +1,12 @@
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\bin\Debug\kalkulator_function.exe.config
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\bin\Debug\kalkulator_function.exe
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\bin\Debug\kalkulator_function.pdb
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\bin\Debug\kalkulator_function.xml
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.vbprojAssemblyReference.cache
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.frmKalkulatorFunction.resources
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.Resources.resources
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.vbproj.GenerateResource.cache
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.exe
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.xml
+E:\Visual Basic\7.Kalkulator (Function)\kalkulator_function\kalkulator_function\obj\Debug\kalkulator_function.pdb

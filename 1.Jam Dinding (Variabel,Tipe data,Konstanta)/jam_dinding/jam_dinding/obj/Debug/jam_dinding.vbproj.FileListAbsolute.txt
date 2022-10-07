@@ -1,0 +1,12 @@
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\bin\Debug\jam_dinding.exe.config
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\bin\Debug\jam_dinding.exe
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\bin\Debug\jam_dinding.pdb
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\bin\Debug\jam_dinding.xml
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.vbprojAssemblyReference.cache
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.formJam.resources
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.Resources.resources
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.vbproj.GenerateResource.cache
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.vbproj.CoreCompileInputs.cache
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.exe
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.xml
+E:\Vsiaul Basic 2\1.Jam Dinding (Variabel,Tipe data,Konstanta)\jam_dinding\jam_dinding\obj\Debug\jam_dinding.pdb

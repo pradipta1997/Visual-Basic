@@ -1,0 +1,11 @@
+IN THIS PROJECT LEARN ABOUT :
+
+Penerapan ArrayList ;
+
+1.Menambahkan ArrayList
+
+2.Menyisipkan ArrayList
+
+3.Menghapus ArrayList
+
+4.Mengurutkan / Sorting ArrayList

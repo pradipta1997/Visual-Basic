@@ -1,0 +1,12 @@
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\bin\Debug\input_nilai_mahasiswa.exe.config
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\bin\Debug\input_nilai_mahasiswa.exe
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\bin\Debug\input_nilai_mahasiswa.pdb
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\bin\Debug\input_nilai_mahasiswa.xml
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.vbprojAssemblyReference.cache
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.frmInputNilaiMahasiswa.resources
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.Resources.resources
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.vbproj.GenerateResource.cache
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.exe
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.xml
+E:\Visual Basic\13.Input  Nilai Mahasiswa (SQL)\input_nilai_mahasiswa\input_nilai_mahasiswa\obj\Debug\input_nilai_mahasiswa.pdb

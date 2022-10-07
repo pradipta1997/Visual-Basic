@@ -1,0 +1,9 @@
+IN THIS PROJECT LEARN ABOUT :
+
+1.Fungsi dari "Function" dan harus menggunakan Return <variabel> pada akhir baris
+program Function. Karena mengembalikan sebuah nilai
+
+2.Pengkondisian menggunakan "Select Case"
+
+3.Menambahkan file "Module" pada Solution Project 
+

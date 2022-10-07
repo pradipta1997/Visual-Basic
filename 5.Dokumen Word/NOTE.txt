@@ -1,0 +1,20 @@
+IN THIS PROJECT LEARN ABOUT :
+
+Membuat Aplikasi Dokumen Word yang didalamnya terdapat beberapa fungsi ;
+
+1.Font, Font Color, & Size
+
+2.Bold,Italic,Underline
+
+3.Margin (Left,Right,Center,Justify)
+
+4.Copy,Paste, & Cut
+
+5.Open File Document
+
+6.Save
+
+7.Exit
+
+8.Text Area (Rich Text Box)
+
